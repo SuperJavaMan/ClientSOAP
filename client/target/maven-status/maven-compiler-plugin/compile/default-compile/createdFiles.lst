@@ -1,0 +1,15 @@
+movies\wsdl\UpdateMovieResponse.class
+movies\wsdl\GetMovieByIdRequest.class
+movies\wsdl\ObjectFactory.class
+movies\wsdl\UpdateMovieRequest.class
+movies\wsdl\GetAllMoviesResponse.class
+movies\wsdl\package-info.class
+movies\wsdl\ServiceStatus.class
+soapmovieclient\client\ClientApplication.class
+movies\wsdl\AddMovieResponse.class
+movies\wsdl\GetAllMoviesRequest.class
+movies\wsdl\MovieType.class
+movies\wsdl\AddMovieRequest.class
+movies\wsdl\DeleteMovieRequest.class
+movies\wsdl\DeleteMovieResponse.class
+movies\wsdl\GetMovieByIdResponse.class
